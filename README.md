@@ -1,2 +1,2 @@
 # DeepNeuralNetwork
-Classification model using deep neural network algorithm
+Classification model using deep neural network algorithm testing
